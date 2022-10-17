@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://hirohirohero.github.io/csb-knfwcu/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.6672d43f.chunk.js",
-    "main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.6672d43f.chunk.js.map",
+    "main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.1f717055.chunk.js",
+    "main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.1f717055.chunk.js.map",
     "runtime-main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/runtime-main.1d499fd4.js",
     "runtime-main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/runtime-main.1d499fd4.js.map",
-    "static/js/2.33f0bf01.chunk.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.33f0bf01.chunk.js",
-    "static/js/2.33f0bf01.chunk.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.33f0bf01.chunk.js.map",
+    "static/js/2.b99aae93.chunk.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.b99aae93.chunk.js",
+    "static/js/2.b99aae93.chunk.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.b99aae93.chunk.js.map",
     "index.html": "https://hirohirohero.github.io/csb-knfwcu/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://hirohirohero.github.io/csb-knfwcu/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+    "static/js/2.b99aae93.chunk.js.LICENSE.txt": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.b99aae93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d499fd4.js",
-    "static/js/2.33f0bf01.chunk.js",
+    "static/js/2.b99aae93.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.6672d43f.chunk.js"
+    "static/js/main.1f717055.chunk.js"
   ]
 }
