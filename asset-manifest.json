@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://hirohirohero.github.io/csb-knfwcu/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.40a3577f.chunk.js",
-    "main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.40a3577f.chunk.js.map",
+    "main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.f2c87c96.chunk.js",
+    "main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/main.f2c87c96.chunk.js.map",
     "runtime-main.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/runtime-main.1d499fd4.js",
     "runtime-main.js.map": "https://hirohirohero.github.io/csb-knfwcu/static/js/runtime-main.1d499fd4.js.map",
     "static/js/2.b99aae93.chunk.js": "https://hirohirohero.github.io/csb-knfwcu/static/js/2.b99aae93.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1d499fd4.js",
     "static/js/2.b99aae93.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.40a3577f.chunk.js"
+    "static/js/main.f2c87c96.chunk.js"
   ]
 }
